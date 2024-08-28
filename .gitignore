@@ -163,3 +163,4 @@ cython_debug/
 Dockerfile
 requirements.txt
 README.md
+test-README.md
